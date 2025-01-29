@@ -1,6 +1,4 @@
-let arr = [
-  "Bharat",
-  21,
+let arr = ["Bharat",21,
   {
     name: "Bharat",
     age: 21,
